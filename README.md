@@ -128,13 +128,6 @@ useMemo)
 
 [61.](https://github.com/amikhailau-sc/Intership/blob/main/61_day/61_day.md) (Laravel Делаем todo, React Js Делаем шашки)
 
-[62.](https://github.com/amikhailau-sc/Intership/blob/main/62_day/62_day.md) (Laravel Делаем todo, React Js Делаем шашки)
-
-[63.](https://github.com/amikhailau-sc/Intership/blob/main/63_day/63_day.md) (Laravel Делаем todo, React Js Делаем шашки)
-
-[64.](https://github.com/amikhailau-sc/Intership/blob/main/64_day/64_day.md) (Laravel Делаем todo, React Js Делаем шашки)
-
-[65.](https://github.com/amikhailau-sc/Intership/blob/main/65_day/65_day.md) (Laravel Делаем todo, React Js Делаем шашки)
 ![](https://cs.pikabu.ru/post_img/big/2013/03/22/6/1363940798_1120327664.jpg)
 
 

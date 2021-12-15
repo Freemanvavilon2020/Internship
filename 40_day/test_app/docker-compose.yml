@@ -1,0 +1,17 @@
+version: '3'
+services:
+  web:
+    build:
+      name: php-apache
+      context: ./php
+      dockerfile: Dockerfile
+
+    depends_on:
+            - db
+    ports:
+      - "8000:80"
+    
+    
+    volumes:
+      - ./apache/app:/var/www/html
+    
