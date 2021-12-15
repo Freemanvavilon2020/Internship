@@ -6,17 +6,17 @@
 
 [2.](https://github.com/Freemanvavilon2020/Internship/blob/master/2_day/second_day.md) (GitFlow, SSH)
 
-[3.](https://github.com/Freemanvavilon2020/Intersnhip/blob/master/3_day/third_day.md) (Типы данных, циклы, условные и логические операторы)
+[3.](https://github.com/Freemanvavilon2020/Internship/blob/master/3_day/third_day.md) (Типы данных, циклы, условные и логические операторы)
 
-[4.](https://github.com/Freemanvavilon2020/Intersnhip/blob/master/4_day/fourth_day.md) (Функции, Docker)
+[4.](https://github.com/Freemanvavilon2020/Internship/blob/master/4_day/fourth_day.md) (Функции, Docker)
 
-[5.](https://github.com/Freemanvavilon2020/Intersnhip/blob/master/5_day/5_day.md) (Замыкание, стрелочные фуункции, Аргументы и передача)
+[5.](https://github.com/Freemanvavilon2020/Internship/blob/master/5_day/5_day.md) (Замыкание, стрелочные фуункции, Аргументы и передача)
 
-[6.](https://github.com/Freemanvavilon2020/Intersnhip/blob/master/6_day/6_day.md) (Строки и методы работы со строками, Масссивы и методы работы со массивами, DNS)
+[6.](https://github.com/Freemanvavilon2020/Internship/blob/master/6_day/6_day.md) (Строки и методы работы со строками, Масссивы и методы работы со массивами, DNS)
 
-[7.](https://github.com/Freemanvavilon2020/Intersnhip/blob/master/7_day/7_day.md) (Обьекты и классы, обьединение обьектов, методы в JS. Http (Headers,Response,Request)
+[7.](https://github.com/Freemanvavilon2020/Internship/blob/master/7_day/7_day.md) (Обьекты и классы, обьединение обьектов, методы в JS. Http (Headers,Response,Request)
 
-[8.](https://github.com/Freemanvavilon2020/Intersnhip/blob/master/8_day/8_day.md) (Геттеры/сеттеры, приватные поля через _ ,Вычисляемые свойства, Свойства классов, Наследование, Инкапсюляция, Полиморфизм, Переопределение методов, Ключевое слово super,static) 
+[8.](https://github.com/Freemanvavilon2020/Internship/blob/master/8_day/8_day.md) (Геттеры/сеттеры, приватные поля через _ ,Вычисляемые свойства, Свойства классов, Наследование, Инкапсюляция, Полиморфизм, Переопределение методов, Ключевое слово super,static) 
 
 [9.](https://github.com/Freemanvavilon2020/Intersnhip/blob/master/9_day/9_day.md) (Взаимодействие клиент сервер, Сервера: Apache,Nginx, Синхронность и Асинхронность, AJAX, WebSocket)
 
