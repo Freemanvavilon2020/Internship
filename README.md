@@ -18,49 +18,49 @@
 
 [8.](https://github.com/Freemanvavilon2020/Internship/blob/master/8_day/8_day.md) (Геттеры/сеттеры, приватные поля через _ ,Вычисляемые свойства, Свойства классов, Наследование, Инкапсюляция, Полиморфизм, Переопределение методов, Ключевое слово super,static) 
 
-[9.](https://github.com/Freemanvavilon2020/Intersnhip/blob/master/9_day/9_day.md) (Взаимодействие клиент сервер, Сервера: Apache,Nginx, Синхронность и Асинхронность, AJAX, WebSocket)
+[9.](https://github.com/Freemanvavilon2020/Internship/blob/master/9_day/9_day.md) (Взаимодействие клиент сервер, Сервера: Apache,Nginx, Синхронность и Асинхронность, AJAX, WebSocket)
 
-[10.](https://github.com/Freemanvavilon2020/Intersnhip/blob/master/10_day/10_day.md) (Обьект JSON, try…catch, finally, Деструктуризация, Остаточные параметры, Иденпотентность, Безопасность методов, Безопасность методов, Версионность, Swagger)
+[10.](https://github.com/Freemanvavilon2020/Internship/blob/master/10_day/10_day.md) (Обьект JSON, try…catch, finally, Деструктуризация, Остаточные параметры, Иденпотентность, Безопасность методов, Безопасность методов, Версионность, Swagger)
 
-[11.](https://github.com/amikhailau-sc/Intership/blob/main/11_day/11_day.md) (Фильтр, Cортировка, Пагинация)
+[11.](https://github.com/Freemanvavilon2020/Internship/blob/master/11_day/11_day.md) (Фильтр, Cортировка, Пагинация)
 
-[12.](https://github.com/amikhailau-sc/Intership/blob/main/12_day/12_day.md) (Отладка в ChromeDevTools, Браузерное окружение)
+[12.](https://github.com/Freemanvavilon2020/Internship/blob/master/12_day/12_day.md) (Отладка в ChromeDevTools, Браузерное окружение)
 
-[13.](https://github.com/amikhailau-sc/Intership/blob/main/13_day/13_day.md) (Homework)
+[13.](https://github.com/Freemanvavilon2020/Internship/blob/master/13_day/13_day.md) (Homework)
 
-[14.](https://github.com/amikhailau-sc/Intership/blob/main/14_day/14_day.md) (Homework)
+[14.](https://github.com/Freemanvavilon2020/Internship/blob/master/14_day/14_day.md) (Homework)
 
-[15.](https://github.com/amikhailau-sc/Intership/blob/main/15_day/15_day.md) (Homework)
+[15.](https://github.com/Freemanvavilon2020/Internship/blob/master/15_day/15_day.md) (Homework)
 
-[16.](https://github.com/amikhailau-sc/Intership/blob/main/16_day/16_day.md) (OOP Метадологии реализации)
+[16.](https://github.com/Freemanvavilon2020/Internship/blob/master/16_day/16_day.md) (OOP Метадологии реализации)
 
-[17.](https://github.com/amikhailau-sc/Intership/blob/main/17_day/17_day.md) (Промисы, async/await, CORS)
+[17.](https://github.com/Freemanvavilon2020/Internship/blob/master/17_day/17_day.md) (Промисы, async/await, CORS)
 
-[18.](https://github.com/amikhailau-sc/Intership/blob/main/18_day/18_day.md) (This (call apply bind), Привязка контекста к функции, События js, SOLID, DRY, KISS)
+[18.](https://github.com/Freemanvavilon2020/Internship/blob/master/18_day/18_day.md) (This (call apply bind), Привязка контекста к функции, События js, SOLID, DRY, KISS)
 
-[19.](https://github.com/amikhailau-sc/Intership/blob/main/19_day/19_day.md) (Модули, Clean Code)
+[19.](https://github.com/Freemanvavilon2020/Internship/blob/master/19_day/19_day.md) (Модули, Clean Code)
 
-[20.](https://github.com/amikhailau-sc/Intership/blob/main/20_day/20_day.md) (Async/await)
+[20.](https://github.com/Freemanvavilon2020/Internship/blob/master/20_day/20_day.md) (Async/await)
 
-[21.](https://github.com/amikhailau-sc/Intership/blob/main/21_day/21_day.md) (Сборка мусора, Сложность алгаритмов)
+[21.](https://github.com/Freemanvavilon2020/Internship/blob/master/21_day/21_day.md) (Сборка мусора, Сложность алгаритмов)
 
-[22.](https://github.com/amikhailau-sc/Intership/blob/main/22_day/22_day.md) (обьект Map и Set, WeakSet и WeakMap, Databases)
+[22.](https://github.com/Freemanvavilon2020/Internship/blob/master/22_day/22_day.md) (обьект Map и Set, WeakSet и WeakMap, Databases)
 
-[23.](https://github.com/amikhailau-sc/Intership/blob/main/23_day/23_day.md) (Databases, Индексы)
+[23.](https://github.com/Freemanvavilon2020/Internship/blob/master/23_day/23_day.md) (Databases, Индексы)
 
-[24.](https://github.com/amikhailau-sc/Intership/blob/main/24_day/24_day.md) (Хранимые процедуры, функции Тригерры)
+[24.](https://github.com/Freemanvavilon2020/Internship/blob/master/24_day/24_day.md) (Хранимые процедуры, функции Тригерры)
 
-[25.](https://github.com/amikhailau-sc/Intership/blob/main/25_day/25_day.md) (Тестирование lesson 1, JOIN)
+[25.](https://github.com/Freemanvavilon2020/Internship/blob/master/25_day/25_day.md) (Тестирование lesson 1, JOIN)
 
-[26.](https://github.com/amikhailau-sc/Intership/blob/main/26_day/26_day.md) (Регулярные выражения)
+[26.](https://github.com/Freemanvavilon2020/Internship/blob/master/26_day/26_day.md) (Регулярные выражения)
 
-[27.](https://github.com/amikhailau-sc/Intership/blob/main/27_day/27_day.md) (Промисы методы, Практика BD)
+[27.](https://github.com/Freemanvavilon2020/Internship/blob/master/27_day/27_day.md) (Промисы методы, Практика BD)
 
-[28.](https://github.com/amikhailau-sc/Intership/blob/main/28_day/28_day.md) (Практика BD)
+[28.](https://github.com/Freemanvavilon2020/Internship/blob/master/28_day/28_day.md) (Практика BD)
 
-[29.](https://github.com/amikhailau-sc/Intership/blob/main/29_day/29_day.md) (Node.js, Практика BD)
+[29.](https://github.com/Freemanvavilon2020/Internship/blob/master/29_day/29_day.md) (Node.js, Практика BD)
 
-[30.](https://github.com/amikhailau-sc/Intership/blob/main/30_day/30_day.md) (express js NoSQL)
+[30.](https://github.com/Freemanvavilon2020/Internship/blob/master/30_day/30_day.md) (express js NoSQL)
 
 [31.](https://github.com/amikhailau-sc/Intership/blob/main/31_day/31_day.md) (NoSQL, App Structure)
 

@@ -1,0 +1,54 @@
+.main-block {
+    width: 560px;
+    height: 560px;
+    margin: 30px auto;
+    border: 1px solid black;
+}
+
+.block {
+    width: 70px;
+    height: 70px;
+    float: left;
+    /* border: 1px solid red; */
+}
+
+.black {
+    /* background:url(../img/black_simple1.png) center no-repeat; */
+    background: black;
+}
+.checker_black{
+    background:url(../img/black_simple1.png) center no-repeat;
+    width: 70px;
+    height: 70px;
+    /*box-shadow: inset red;*/
+}
+.checker_white{
+    background:url(../img/white_simple1.png) center no-repeat;
+    width: 70px;
+    height: 70px
+}
+
+.white {
+    /* background:url(../img/white_simple1.png) center no-repeat; */
+    background: white;
+}
+
+
+
+/* #field {
+
+    background:url(../img/field.jpg) center no-repeat;
+    width: 900px;
+    height: 900px;
+    position: absolute;
+    left: 250px;
+    top: 50px; */
+
+/* } */
+
+/*margin-top: 50px;
+margin-left: 51px;*/
+
+
+
+

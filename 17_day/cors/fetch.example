@@ -1,0 +1,7 @@
+fetch(
+  'http://localhost:81/readme.txt',
+  {
+    method: 'GET',
+    headers: { 'Content-Type': 'text/plain' }
+  }
+).then(resp => resp.text()).then(console.log)
