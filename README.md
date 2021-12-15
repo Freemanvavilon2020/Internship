@@ -88,7 +88,7 @@
 
 [43.](https://github.com/Freemanvavilon2020/Internship/blob/master/43_day/43_day.md) (Flexbox CSS, Генераторы)
 
-[44.](https://github.com/Freemanvavilon2020/Internship/blob/master/44_day/44_day.md(TODO PHP)) (Хуки React.js, ToDo List)
+[44.](https://github.com/Freemanvavilon2020/Internship/blob/master/44_day/44_day.md) (Хуки React.js, TODO PHP)
 
 [45.](https://github.com/Freemanvavilon2020/Internship/blob/master/45_day/45_day.md) (ToDo List useCallback,
 useMemo)
