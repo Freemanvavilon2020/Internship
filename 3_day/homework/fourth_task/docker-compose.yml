@@ -1,0 +1,14 @@
+version: '3'
+services:
+  mysql:
+    container_name: php_mysql
+    restart: always
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: 'test_pass' # TODO: Change this
+      MYSQL_USER: 'test'
+      MYSQL_PASS: 'pass'
+    volumes:
+      - my-datavolume:/var/www/mysql
+volumes:
+  my-datavolume:
