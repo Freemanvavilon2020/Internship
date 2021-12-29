@@ -107,11 +107,11 @@ useMemo)
 
 [52.](https://github.com/Freemanvavilon2020/Internship/blob/master/52_day/52_day.md) (Контекст React)
 
-[53.](https://github.com/Freemanvavilon2020/Internship/blob/master/53_day/53_day.md) ()
+[53.](https://github.com/Freemanvavilon2020/Internship/blob/master/53_day/53_day.md) (Laravel)
 
 [54.](https://github.com/Freemanvavilon2020/Internship/blob/master/54_day/54_day.md) (Node.JS)
 
-[55.](https://github.com/Freemanvavilon2020/Internship/blob/master/55_day/55_day.md) ()
+[55.](https://github.com/Freemanvavilon2020/Internship/blob/master/55_day/55_day.md) (Laravel)
 
 [56.](https://github.com/Freemanvavilon2020/Internship/blob/master/56_day/56_day.md) (Laravel, Предохранители React JS)
 
