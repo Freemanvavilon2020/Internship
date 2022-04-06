@@ -120,13 +120,10 @@ useMemo)
 
 [58.](https://github.com/Freemanvavilon2020/Internship/blob/master/58_day/58_day.md) (Laravel Делаем todo, React Js Делаем шашки)
 
-[59.](https://github.com/Freemanvavilon2020/Internship/blob/master/59_day/59_day.md) (Laravel Делаем todo, React Js Делаем шашки)
+[59.](https://github.com/Freemanvavilon2020/Internship/blob/master/59_day/59_day.md) (LARAVEL TODO)
 
 
 [60.](https://github.com/Freemanvavilon2020/Internship/blob/master/60_day/60_day.md) (Laravel Делаем todo, React Js Делаем шашки)
-
-
-[61.](https://github.com/Freemanvavilon2020/Internship/blob/master/61_day/61_day.md) (Laravel Делаем todo, React Js Делаем шашки)
 
 ![](https://cs.pikabu.ru/post_img/big/2013/03/22/6/1363940798_1120327664.jpg)
 
