@@ -1,7 +1,6 @@
 # Internship PHP/JS 
 
 > Новые инструменты для работы
-> 
 
 1.	KeePass 
 2.	Rockpace(**почтовый сервис**)
