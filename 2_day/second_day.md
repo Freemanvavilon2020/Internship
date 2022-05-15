@@ -39,6 +39,7 @@ SSH — защищенный протокол для удаленного дос
 
 
 ### Полезные статьи для Homework 
+
 1. [Руководство по Docker Compose для начинающих](https://habr.com/en/company/ruvds/blog/450312/)
 2. [Изучаем Docker, часть 1: основы](https://habr.com/en/company/ruvds/blog/438796/)
 3. [Рабочий процесс Gitflow Workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
