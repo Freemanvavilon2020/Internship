@@ -21,6 +21,7 @@
 3. docker run: зачем использовать --rm
 
 ### Полезные статьи для Homework 
+
 1. [Зачем использовать --rm](https://qastack.ru/programming/49726272/docker-run-why-use-rm-docker-newbie)
 2. [Руководство по Docker Compose для начинающих](https://habr.com/ru/company/ruvds/blog/450312/)
 3. [Шейкерная сортировка, JavaScript](https://medium.com/@alivander/%D1%88%D0%B5%D0%B9%D0%BA%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-javascript-a2b8af562ee)
