@@ -1,4 +1,5 @@
 ## Что нового узнал 
+
 ## JS ##
 1. Функция замыкания
 2. Стрелочные функции
@@ -8,11 +9,14 @@
 6. Мемоизация в JS
 
 ### Homework 
+
 #### JS 
 Решить по 3 задачи из http://projects.scand/projects/edu/wiki/JavaScript_-_Lesson_3_Functions-Part_1
 Сделать консольную иору крестики нолики
+
 #### PHP 
 Учить и практиковать Docker
+
 ### Полезные статьи для Homework 
 1. [Ссылка на учебный материяал](https://habr.com/ru/company/ruvds/blog/332384/)
 2. [Самовызывающиеся функции](https://www.codehint.ru/articles/2014-07-27_javascript-self-invoking-functions)
