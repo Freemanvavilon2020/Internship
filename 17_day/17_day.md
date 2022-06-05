@@ -2,15 +2,10 @@
 ## JS 
 Промисы, async/await
 
-
-
-
-
 ## PHP 
 
 ### Homework
 #### JS 
-
 Делаем лифт
 
 #### PHP 
