@@ -3,17 +3,12 @@
 Модули
 Import/Export
 
-
-
-
 ## PHP 
 Clean Code
 
 ### Homework
 #### JS 
 Разбить крестики нолик на модули 
-
-
 
 #### PHP 
 
