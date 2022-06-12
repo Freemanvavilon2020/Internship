@@ -1,17 +1,14 @@
 ## Что нового узнал 
 ## JS 
-Async/await
 
+Async/awaitЫ
 1. Axios JS
 2. Lodash JS
 3. Moment JS
 4. Day js
 
 
-
-
 ## PHP 
-
 
 ### Homework
 #### JS 
