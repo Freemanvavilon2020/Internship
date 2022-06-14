@@ -21,9 +21,7 @@ Async/awaitЫ
 #### Полезыне материалы
 ![](D:\work\Intership\20_day\photo_2021-10-08_12-50-59.jpg)
 [Приложение двенадцати факторов](https://12factor.net/ru/)
-
 [Async/await](https://learn.javascript.ru/async-await)
-
 [7 недостающих факторов в подходе 12 Factor App](https://habr.com/ru/company/flant/blog/460363/)
 
 
