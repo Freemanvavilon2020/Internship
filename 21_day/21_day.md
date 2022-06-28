@@ -28,6 +28,7 @@
 
 
 
+
 [Сборка мусора](https://learn.javascript.ru/garbage-collection)
 
 
