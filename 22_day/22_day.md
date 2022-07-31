@@ -50,8 +50,6 @@ Databases
 
 
 
-
-
 #### Полезыне материалы
 [Целостность баз данных](http://www.ssofta.narod.ru/bd/13.htm)
 
