@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $confirm = $_POST['confirm'] ?? '';
 
 
-//Валидация
+//Валидацияя
   if (empty($name) || !preg_match('/^[а-яА-Я]{3}|[a-zA-Z]{3}$/', $name)) {
     $is_error['name'] = "Enter your name";
   }
