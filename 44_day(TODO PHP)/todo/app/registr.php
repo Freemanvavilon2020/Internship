@@ -7,7 +7,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $password = $_POST['password'] ?? '';
   $confirm = $_POST['confirm'] ?? '';
 
-
 //Валидация
   if (empty($name) || !preg_match('/^[а-яА-Я]{3}|[a-zA-Z]{3}$/', $name)) {
     $is_error['name'] = "Enter your name";
