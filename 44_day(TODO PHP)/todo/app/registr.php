@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $is_error['password'] = "Password mismatch";
   }
 
-//Создаем пользовател
+//Создаем пользователя
 
 
   if (empty($is_error)) {
