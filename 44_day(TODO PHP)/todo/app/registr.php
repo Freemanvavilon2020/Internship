@@ -20,9 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $is_error['password'] = "Password mismatch";
   }
 
-//Создаем пользователяя
-
-
+//Создаем пользователя
 
   if (empty($is_error)) {
     function createUser($email, $name, $password)
