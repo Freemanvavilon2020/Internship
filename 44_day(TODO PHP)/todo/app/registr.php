@@ -24,7 +24,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 
-
   if (empty($is_error)) {
     function createUser($email, $name, $password)
     {
