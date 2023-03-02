@@ -1,7 +1,8 @@
 # Internship 
 #### Internship PHP/JS
 ## Working Days 
-g
+
+
 [1.](https://github.com/Freemanvavilon2020/Internship/blob/master/1_day/first_day.md) (Git и команды работы с ним)
 
 [2.](https://github.com/Freemanvavilon2020/Internship/blob/master/2_day/second_day.md) (GitFlow, SSH)
