@@ -28,7 +28,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $getuser->execute($params);
     return $getuser->fetch(PDO::FETCH_ASSOC);
   }
-  
   $user1 = getUser($email);
 
   if (!$user1 || !password_verify($password, $user1['password'])) {
