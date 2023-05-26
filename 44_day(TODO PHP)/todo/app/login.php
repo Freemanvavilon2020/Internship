@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   }
   $user1 = getUser($email);
 
-  
+
   if (!$user1 || !password_verify($password, $user1['password'])) {
     $notlogin = true;
   } else {
