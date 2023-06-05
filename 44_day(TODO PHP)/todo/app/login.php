@@ -24,6 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       "email" => $email
     ];
 
+    
     $getuser = $conn->prepare($sql);
     $getuser->execute($params);
     return $getuser->fetch(PDO::FETCH_ASSOC);
