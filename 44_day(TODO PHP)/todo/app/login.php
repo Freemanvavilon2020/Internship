@@ -38,6 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   }
 }
 
+
 include('templates/header.php');
 ?>
 <main class="form-signin">
