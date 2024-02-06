@@ -5,6 +5,7 @@ $uName = "user";
 $pass = "test";
 $db_name = "todo";
 
+
 try {
     $conn = new PDO("mysql:host=$sName;dbname=$db_name", 
                     $uName, $pass);
