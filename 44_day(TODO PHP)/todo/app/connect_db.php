@@ -1,5 +1,7 @@
 <?php 
 
+\
+
 $sName = "db";
 $uName = "user";
 $pass = "test";
