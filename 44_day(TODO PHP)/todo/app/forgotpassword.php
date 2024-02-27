@@ -6,6 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST['email'] ?? '';
 
 
+    
     function getEmail($email, $emailDb)
     {
         if ($email !== $emailDb) {
